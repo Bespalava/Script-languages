@@ -1,2 +1,2 @@
-# Script-languages
+# Bash
 Pracownia języków skryptowych
