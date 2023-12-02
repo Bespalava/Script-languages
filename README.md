@@ -1,2 +1,2 @@
-# Script-languages
+# Chatbot
 Pracownia języków skryptowych
