@@ -1,2 +1,2 @@
-# Chatbot
+# Shop
 Pracownia języków skryptowych
