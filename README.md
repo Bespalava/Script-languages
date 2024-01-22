@@ -42,19 +42,34 @@ Należy stworzyć prosty sklep z serwerem REST API:
 
 [Reference to shop]()
 
-[Video?]()
+[Video]()
 
 ## REST API
 ![bash](https://github.com/Bespalava/Script-languages/blob/main/lua.png)
 
 REST API pod sklep Lua
 Należy stworzyć REST API z modelami na bazie **frameworka Lapis** w Lua lub **[MoonScript](https://moonscript.org/)**.
-- [ ] Endpointy pod N kategorie oraz produkty CRUD (Create, read (wiele, jeden), update, delete) zrobione na listach zwracane w formie JSONów
-- [ ] Należy modele stworzyć za pomocą lapis.db.model
-- [ ] To wszystko co wcześniej, ale w MoonScript
+- [x] Endpointy pod N kategorie oraz produkty CRUD (Create, read (wiele, jeden), update, delete) zrobione na listach zwracane w formie JSONów
+- [x] Należy modele stworzyć za pomocą lapis.db.model
+- [x] To wszystko co wcześniej, ale w MoonScript
 - [ ] Zapis obrazów (PNG/JPG) produktów na GCS: **[cloud_storage](https://github.com/leafo/cloud_storage)** lub innej chmurze
 - [ ] Testy API, np. za pomocą paczek **[lua-cjson](https://kyne.com.au/~mark/software/lua-cjson-manual.html)**, **[luasocket](https://github.com/diegonehab/luasocket)**
 
-[Reference to schatbot]()
+[Reference to sklep]()
 
-[Video?]()
+[Video]()
+
+## Crawler
+![bash](https://github.com/Bespalava/Script-languages/blob/main/ruby.png)
+
+Crawler w Ruby
+Należy stworzyć crawler produktów na Amazonie, Allegro lub podobnym w Ruby wykorzystują bibliotekę **[Nokogiri](https://nokogiri.org/)**.
+
+- [x] Należy pobrać podstawowe dane o produktach (tytuł, cena), dowolna kategoria
+- [x] Należy pobrać podstawowe dane o produktach wg słów kluczowych
+- [x] Należy rozszerzyć dane o produktach o dane szczegółowe widoczne tylko na podstronie o produkcie
+- [ ] Należy zapisać linki do produktów
+- [ ] Dane należy zapisać w bazie danych np. SQLite via Sequel
+
+[Reference to crawler]()
+
