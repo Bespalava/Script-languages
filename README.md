@@ -1,2 +1,2 @@
-# Shop
+# Crawler
 Pracownia języków skryptowych
