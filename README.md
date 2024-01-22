@@ -27,7 +27,7 @@ Należy wykonać odpowiednio poszczególne zadania (wyższa ocena wymaga wykonan
 - [ ] Chatbot needs to confirm when the meal will be available as a pick-up in the restaurant
 - [ ] Chatbot should ask and confirm the delivery address instead of pick-up option
 
-[Reference to chatbot]()
+[Reference to chatbot](https://github.com/Bespalava/Script-languages/tree/chatbot)
 
 ## Shop
 ![bash](https://github.com/Bespalava/Script-languages/blob/main/rn.png)
@@ -40,7 +40,7 @@ Należy stworzyć prosty sklep z serwerem REST API:
 - [ ] Opcja koszyka i płatności działa na React Hook
 - [ ] Konfiguracja CORS po stronie NodeJS + konfiguracja po stronie ReactJS
 
-[Reference to shop]()
+[Reference to shop](https://github.com/Bespalava/Script-languages/tree/shop)
 
 [Video]()
 
@@ -55,7 +55,7 @@ Należy stworzyć REST API z modelami na bazie **frameworka Lapis** w Lua lub **
 - [ ] Zapis obrazów (PNG/JPG) produktów na GCS: **[cloud_storage](https://github.com/leafo/cloud_storage)** lub innej chmurze
 - [ ] Testy API, np. za pomocą paczek **[lua-cjson](https://kyne.com.au/~mark/software/lua-cjson-manual.html)**, **[luasocket](https://github.com/diegonehab/luasocket)**
 
-[Reference to sklep]()
+[Reference to shop](https://github.com/Bespalava/Script-languages/tree/lua)
 
 [Video]()
 
@@ -71,5 +71,5 @@ Należy stworzyć crawler produktów na Amazonie, Allegro lub podobnym w Ruby wy
 - [ ] Należy zapisać linki do produktów
 - [ ] Dane należy zapisać w bazie danych np. SQLite via Sequel
 
-[Reference to crawler]()
+[Reference to crawler](https://github.com/Bespalava/Script-languages/tree/crawler)
 
